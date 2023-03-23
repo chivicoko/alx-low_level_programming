@@ -1,1 +1,1 @@
-This is the low level programming language repo in C
+This is alx-low_level_programming repo
